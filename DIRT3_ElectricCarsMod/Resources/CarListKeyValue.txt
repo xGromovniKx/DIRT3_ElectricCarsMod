@@ -1,0 +1,50 @@
+6r4 MG Metro 6R4
+6rb MG Metro 6R4 RallyX (rallycross)
+20x Peugeot 207 T16 4x4 (rallycross)
+131 Fiat 131 Abarth
+207 Peugeot 207 S2000
+alp Renault Alpine A110 1600S
+aqb Audi Sport Quattro Rallye
+aqp Audi Quattro S1 Pikes Peak
+bmt BMW Z4 M Coupe Motorsport
+bow Bowler Nemesis
+c4r Citroen C4 WRC
+dmy Dummy
+ers Ford Escort RS Cosworth
+ffr Ford Fiesta RS WRC
+fgk Ford Fiesta Gymkhana 3
+for Ford Focus RS WRC
+fpp Ford Fiesta OMSE Hillclimb Special
+fra Ford Fiesta Open Class
+frx Ford Fiesta Rallycross
+fsb Stadium Buggy
+fst Stadium Truck
+ful Lancia Fulvia HF
+gt4 Toyota Celica GT Four
+gym Subaru Impreza WRX STI GR Gymkhana
+igk Subaru Impreza WRX STI GD Gymkhana
+kad Opel kadett GT/E V16
+lan Mitsubishi Racing Lancer
+ldi Lancia Delta HF Integrale
+mcr Mini Countryman Rally Edition
+mcs Mini Cooper S
+mer Mitsubishi Lancer Evolution X (rally)
+mex Mitsubishi Lancer Evolution X (rallycross)
+mgk Mitsubishi Lancer Evolution X Jun (gymkhana)
+mta Opel Manta 400
+n12 Subaru Impreza WRX STI N12
+pun Abarth Grande Punto S2000
+r5t Renault 5 Turbo
+rmt Rhys Millen Racing PM580
+rs2 Ford RS200
+rsb Ford RS 200 RallyX (rallycross)
+sti Subaru Impreza WRX STI SRT USA
+stx Subaru Impreza WRX STI GR Rallycross
+sx4 Monster Sport SX4 Hillclimb Special
+tac Toyota Tacoma
+vwt Volkswagen Race Touareg 2
+405 Peugeot 405 T16 Pikes Peak (unknown, maybe 405)
+hh3 Hummer H3 (unknown, maybe hh3)
+srs Ford Sierra Cosworth RS500 (unknown, maybe srs)
+555 1995 Subaru Impreza WRX STI (unknown, maybe 555)
+cr4 Colin McRae R4 (unknown, maybe cr4)
